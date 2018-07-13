@@ -1,10 +1,10 @@
 {
   "name": "sunburst-edited",
   "theme": "syntax",
-  "version": "0.3.0",
+  "version": "0.1.0",
   "private": false,
   "description": "An atom port of the TextMate Sunburst theme",
-  "repository": "https://github.com/npverni/atom-sunburst",
+  "repository": "https://github.com/Faxendo/atom-sunburst-edited",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
